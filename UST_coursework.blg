@@ -1,0 +1,47 @@
+This is 8-bit Big BibTeX version 0.99d
+Implementation:  C for Unix
+Release version: 3.71 (18 mar 2013)
+
+The 8-bit codepage and sorting file: 88591lat.csf
+The top-level auxiliary file: UST_coursework.aux
+The style file: agsm.bst
+Reallocated glb_str_ptr (elt_size=8) to 10 items from 0.
+Reallocated global_strs (elt_size=20001) to 10 items from 0.
+Reallocated glb_str_end (elt_size=8) to 10 items from 0.
+Database file #1: UST_references.bib
+"{" immediately follows a field name---line 23 of file UST_references.bib
+ : @book
+ :      {OECD2012,
+I'm skipping whatever remains of this entry
+"{" immediately follows a field name---line 40 of file UST_references.bib
+ : @techreport
+ :            {EuropeanEnvironmentAgency2006,
+I'm skipping whatever remains of this entry
+"{" immediately follows a field name---line 54 of file UST_references.bib
+ : @book
+ :      {jackson1985crabgrass,
+I'm skipping whatever remains of this entry
+Repeated entry---line 321 of file UST_references.bib
+ : @article{Neuman2005
+ :                    ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "EuropeanEnvironmentAgency2006"
+Warning--I didn't find a database entry for "jackson1985crabgrass"
+Warning--I didn't find a database entry for "OECD2012"
+Warning--empty institution in burchell1995land
+Warning--there's a number but no series in burchell1998costs
+Warning--empty publisher in burchell1998costs
+Warning--empty publisher in newman1989cities
+Warning--empty institution in RealEstate1974
+Warning--empty institution in Rogers2005
+Warning--empty publisher in horward1898garden
+Warning--empty institution in UnitedNations1992
+
+Here's how much of BibTeX's memory you used:
+ Cites:                49 out of 750
+ Fields:              525 out of 5000
+ Hash table:        35016 out of 35307
+ Strings:             911 out of 35307
+ Free string pool:  11678 out of 65000
+ Wizard functions:   2909 out of 3000
+(There were 4 error messages)
