@@ -1,19 +1,46 @@
-This is 8-bit Big BibTeX version 0.99d
-Implementation:  C for Unix
-Release version: 3.71 (18 mar 2013)
-
-The 8-bit codepage and sorting file: 88591lat.csf
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: UST_coursework.aux
 The style file: apalike.bst
-Reallocated glb_str_ptr (elt_size=8) to 10 items from 0.
-Reallocated global_strs (elt_size=20001) to 10 items from 0.
-Reallocated glb_str_end (elt_size=8) to 10 items from 0.
 Database file #1: UST_references.bib
-
-Here's how much of BibTeX's memory you used:
- Cites:                52 out of 750
- Fields:              539 out of 5000
- Hash table:        35125 out of 35307
- Strings:             758 out of 35307
- Free string pool:  10901 out of 65000
- Wizard functions:   1935 out of 3000
+You've used 52 entries,
+            1935 wiz_defined-function locations,
+            760 strings with 10918 characters,
+and the built_in function-call counts, 16943 in all, are:
+= -- 1652
+> -- 571
+< -- 51
++ -- 193
+- -- 178
+* -- 1263
+:= -- 3077
+add.period$ -- 151
+call.type$ -- 52
+change.case$ -- 337
+chr.to.int$ -- 51
+cite$ -- 52
+duplicate$ -- 712
+empty$ -- 1239
+format.name$ -- 248
+if$ -- 3280
+int.to.chr$ -- 2
+int.to.str$ -- 0
+missing$ -- 54
+newline$ -- 256
+num.names$ -- 160
+pop$ -- 317
+preamble$ -- 1
+purify$ -- 346
+quote$ -- 0
+skip$ -- 546
+stack$ -- 0
+substring$ -- 1025
+swap$ -- 62
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 278
+warning$ -- 0
+while$ -- 141
+width$ -- 0
+write$ -- 643
